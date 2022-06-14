@@ -27,7 +27,7 @@ or a penny the first day, two pennies the second, four pennies the third
 day and so on, doubling the amount you made the previous day. There is
 no user input to this program.
 
-The x's should be replaced by the doubling amount on the 25^th^ day and
+The x's should be replaced by the doubling amount on the 25<sup>th</sup> day and
 the total after summing all of the doubling amounts:
 
 <pre>
